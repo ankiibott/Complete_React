@@ -1,0 +1,5 @@
+//vite install step :- 1. npm react vite 2. npm i 3. npm run dev
+
+//1. public :- we keep our video images and other things that is required in project.
+//2. assests :- we keep images that is very much required and used very frequently.
+//3. eslint :- we use it to made a custom set of rules for all the developers (like string ''/""/$)
